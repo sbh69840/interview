@@ -17,7 +17,9 @@ where you can test your learned skill, by clicking on the switch at the top.
 ![Train Section](https://raw.github.com/sbh69840/interview/master/16.png)
  - SS 1: Home page 
 ![Home Page](https://raw.github.com/sbh69840/interview/master/4.jpg)
-<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="400" />
+<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
+<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
+<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
  - SS 2: Drag the card in which ever direction you prefer.  
 ![Drag Card](https://raw.github.com/sbh69840/interview/master/5.jpg)
  - SS 3: Drag it up or down and sideways only to move to next card.
