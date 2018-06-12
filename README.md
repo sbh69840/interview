@@ -16,24 +16,21 @@ after training.
 where you can test your learned skill, by clicking on the switch at the top.
 ![Train Section](https://raw.github.com/sbh69840/interview/master/16.png)
  - SS 1: Home page 
-![Home Page](https://raw.github.com/sbh69840/interview/master/4.jpg)
-<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
-<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
-<img src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
+ <img alt="Home Page" src="https://raw.github.com/sbh69840/interview/master/4.jpg" width="200" height="350" />
  - SS 2: Drag the card in which ever direction you prefer.  
-![Drag Card](https://raw.github.com/sbh69840/interview/master/5.jpg)
+<img alt="Drag Card" src="https://raw.github.com/sbh69840/interview/master/5.jpg" width="200" height="350" />
  - SS 3: Drag it up or down and sideways only to move to next card.
-![Drag it 360 deg.](https://raw.github.com/sbh69840/interview/master/8.jpg)
+<img alt="Drag it 360 deg." src="https://raw.github.com/sbh69840/interview/master/8.jpg" width="200" height="350" />
  - SS 4: CupertinoAlertDialog by flutter to get IOS style effect on android.
-![IOS Style dialog](https://raw.github.com/sbh69840/interview/master/9.jpg)
+<img alt="IOS style Dialog" src="https://raw.github.com/sbh69840/interview/master/9.jpg" width="200" height="350" />
  - SS 5: Redirect by banner ad.
-![Banner Ad redirect](https://raw.github.com/sbh69840/interview/master/10.jpg)
+<img alt="Redict AD" src="https://raw.github.com/sbh69840/interview/master/10.jpg" width="200" height="350" />
  - SS 6: Test page after turning on the switch at the top.
-![Test page](https://raw.github.com/sbh69840/interview/master/11.jpg)
+<img alt="Test Page Switch" src="https://raw.github.com/sbh69840/interview/master/11.jpg" width="200" height="350" />
  - SS 7: How to answer the quiz questions.
-![Quiz](https://raw.github.com/sbh69840/interview/master/12.jpg)
+<img alt="How to answer quiz" src="https://raw.github.com/sbh69840/interview/master/12.jpg" width="200" height="350" />
  - SS 8: Get your scores.
-![Score](https://raw.github.com/sbh69840/interview/master/13.jpg)
+<img alt="Your Score" src="https://raw.github.com/sbh69840/interview/master/13.jpg" width="200" height="350" />
 
 # Used Softwares
  - Flutter SDK
